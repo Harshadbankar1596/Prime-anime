@@ -144,7 +144,7 @@ nav {
 }
 div.scroll-container{
   overflow:auto;
-white-space:nowrap;
+white-space:;
 padding:0px;
   
 }
@@ -222,4 +222,7 @@ border:2px white;
 #p1{
   color:white;
 }
-
+#d3{
+	white-space:nowrap;
+	}
+	
